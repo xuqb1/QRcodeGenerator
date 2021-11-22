@@ -1,0 +1,1 @@
+java -cp ./;./qrcode.jar;./qrcode1.jar; TwoDimensionCodeGen

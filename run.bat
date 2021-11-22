@@ -1,0 +1,1 @@
+java -cp ./;./qrcode.jar;./qrcode1.jar; TwoDimensionCode E:\project\java_二维码\TwoDimensionCode\aa.png aasdfsadf
